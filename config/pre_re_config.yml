@@ -1,0 +1,444 @@
+experiments:
+  # Traverse 27 vs 28
+  27vs28_trav1v1_batvik:
+    Experimentdescription:  Different days of winter T1 v T1
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  15
+    LastIndex2:  228
+  27vs28_trav1v2_batvik:
+    Experimentdescription:  Different days of winter T1 v T2
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  452
+    LastIndex2:  1052
+  27vs28_trav1v3_batvik:
+    Experimentdescription:  Different days of winter T1 v T3
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  1274
+    LastIndex2:  1527
+  27vs28_trav2v1_batvik:
+    Experimentdescription:  Different days of winter T2 v T1
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  15
+    LastIndex2:  228
+  27vs28_trav2v2_batvik:
+    Experimentdescription:  Different days of winter T2 v T2
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  452
+    LastIndex2:  1052
+  27vs28_trav2v3_batvik:
+    Experimentdescription:  Different days of winter T2 v T3
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  1274
+    LastIndex2:  1527
+  27vs28_trav3v1_batvik:
+    Experimentdescription:  Different days of winter T3 v T1
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  15
+    LastIndex2:  228
+  27vs28_trav3v2_batvik:
+    Experimentdescription:  Different days of winter T3 v T2
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  452
+    LastIndex2:  1052
+  27vs28_trav3v3_batvik:
+    Experimentdescription:  Different days of winter T3 v T3
+    Dataset1:  27
+    Dataset2:  28
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  1274
+    LastIndex2:  1527
+
+  # Traverse 27 vs 42
+  27vs42_trav1v1_batvik:
+    Experimentdescription:  Winter to summer T1 v T1
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  0
+    LastIndex2:  224
+  27vs42_trav1v2_batvik:
+    Experimentdescription:  Winter to summer T1 v T2
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  457
+    LastIndex2:  1058
+  27vs42_trav1v3_batvik:
+    Experimentdescription:  Winter to summer T1 v T3
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  23
+    LastIndex1:  240
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  27vs42_trav2v1_batvik:
+    Experimentdescription:  Winter to summer T2 v T1
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  0
+    LastIndex2:  224
+  27vs42_trav2v2_batvik:
+    Experimentdescription:  Winter to summer T2 v T2
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  457
+    LastIndex2:  1058
+  27vs42_trav2v3_batvik:
+    Experimentdescription:  Winter to summer T2 v T3
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  471
+    LastIndex1:  1071
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  27vs42_trav3v1_batvik:
+    Experimentdescription:  Winter to summer T3 v T1
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  0
+    LastIndex2:  224
+  27vs42_trav3v2_batvik:
+    Experimentdescription:  Winter to summer T3 v T2
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  457
+    LastIndex2:  1058
+  27vs42_trav3v3_batvik:
+    Experimentdescription:  Winter to summer T3 v T3
+    Dataset1:  27
+    Dataset2:  42
+    FirstIndex1:  1293
+    LastIndex1:  1559
+    FirstIndex2:  1280
+    LastIndex2:  1545 
+
+  # Traverse 41 vs 42
+  41vs42_trav1v1_batvik:
+    Experimentdescription:  Summer same day T1 v T1
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  222
+    FirstIndex2:  0
+    LastIndex2:  224
+  41vs42_trav1v2_batvik:
+    Experimentdescription:  Summer same day T1 v T2
+    Dataset1: 41
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  222
+    FirstIndex2:  457
+    LastIndex2:  1058
+  41vs42_trav1v3_batvik:
+    Experimentdescription:  Summer same day T1 v T3
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  222
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  41vs42_trav2v1_batvik:
+    Experimentdescription:  Summer same day T2 v T1
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  456
+    LastIndex1:  1058
+    FirstIndex2:  0
+    LastIndex2:  224
+  41vs42_trav2v2_batvik:
+    Experimentdescription:  Summer same day T2 v T2
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  456
+    LastIndex1:  1058
+    FirstIndex2:  457
+    LastIndex2:  1058
+  41vs42_trav2v3_batvik:
+    Experimentdescription:  Summer same day T2 v T3
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  456
+    LastIndex1:  1058
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  41vs42_trav3v1_batvik:
+    Experimentdescription:  Summer same day T3 v T1
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  1280
+    LastIndex1:  1546
+    FirstIndex2:  0
+    LastIndex2:  224
+  41vs42_trav3v2_batvik:
+    Experimentdescription:  Summer same day T3 v T2
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  1280
+    LastIndex1:  1546
+    FirstIndex2:  457
+    LastIndex2:  1058
+  41vs42_trav3v3_batvik:
+    Experimentdescription:  Summer same day T3 v T3
+    Dataset1:  41
+    Dataset2:  42
+    FirstIndex1:  1280
+    LastIndex1:  1546
+    FirstIndex2:  1280
+    LastIndex2:  1545
+
+# Traverse 34 vs 42
+  34vs42_trav1v1_batvik:  
+    Experimentdescription:  Early spring to summer T1 v T1
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  0
+    LastIndex2:  224
+  34vs42_trav1v2_batvik: 
+    Experimentdescription:  Early spring to summer T1 v T2
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  457
+    LastIndex2:  1058
+  34vs42_trav1v3_batvik: 
+    Experimentdescription:  Early spring to summer T1 v T3
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  34vs42_trav2v1_batvik: 
+    Experimentdescription:  Early spring to summer T2 v T1
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  0
+    LastIndex2:  224
+  34vs42_trav2v2_batvik: 
+    Experimentdescription:  Early spring to summer T2 v T2
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  457
+    LastIndex2:  1058
+  34vs42_trav2v3_batvik: 
+    Experimentdescription:  Early spring to summer T2 v T3
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  34vs42_trav3v1_batvik: 
+    Experimentdescription:  Early spring to summer T3 v T1
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  0
+    LastIndex2:  224
+  34vs42_trav3v2_batvik: 
+    Experimentdescription:  Early spring to summer T3 v T2
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  457
+    LastIndex2:  1058
+  34vs42_trav3v3_batvik: 
+    Experimentdescription:  Early spring to summer T3 v T3
+    Dataset1:  34
+    Dataset2:  42
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  1280
+    LastIndex2:  1545
+
+# Traverse 39 vs 42
+  39vs42_trav1v1_batvik:
+    Experimentdescription:  Early spring to summer T1 v T1
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  221
+    FirstIndex2:  0
+    LastIndex2:  224
+  39vs42_trav1v2_batvik:
+    Experimentdescription:  Early spring to summer T1 v T2
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  221
+    FirstIndex2:  457
+    LastIndex2:  1058
+  39vs42_trav1v3_batvik:
+    Experimentdescription:  Early spring to summer T1 v T3
+    Dataset1: 39
+    Dataset2:  42
+    FirstIndex1:  0
+    LastIndex1:  221
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  39vs42_trav2v1_batvik:
+    Experimentdescription:  Early spring to summer T2 v T1
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  454
+    LastIndex1:  1058
+    FirstIndex2:  0
+    LastIndex2:  224
+  39vs42_trav2v2_batvik:
+    Experimentdescription:  Early spring to summer T2 v T2
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  454
+    LastIndex1:  1058
+    FirstIndex2:  457
+    LastIndex2:  1058
+  39vs42_trav2v3_batvik:
+    Experimentdescription:  Early spring to summer T2 v T3
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  454
+    LastIndex1:  1058
+    FirstIndex2:  1280
+    LastIndex2:  1545
+  39vs42_trav3v1_batvik:
+    Experimentdescription:  Early spring to summer T3 v T1
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  1281
+    LastIndex1:  1547
+    FirstIndex2:  0
+    LastIndex2:  224
+  39vs42_trav3v2_batvik:
+    Experimentdescription:  Early spring to summer T3 v T2
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  1281
+    LastIndex1:  1547
+    FirstIndex2:  457
+    LastIndex2:  1058
+  39vs42_trav3v3_batvik:
+    Experimentdescription:  Early spring to summer T3 v T3
+    Dataset1:  39
+    Dataset2:  42
+    FirstIndex1:  1281
+    LastIndex1:  1547
+    FirstIndex2:  1280
+    LastIndex2:  1545
+
+# Traverse 34 vs 39
+  34vs39_trav1v1_batvik: 
+    Experimentdescription:  Early spring to late spring T1 v T1
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  0
+    LastIndex2:  221
+  34vs39_trav1v2_batvik: 
+    Experimentdescription:  Early spring to late spring T1 v T2
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  454
+    LastIndex2:  1058
+  34vs39_trav1v3_batvik: 
+    Experimentdescription:  Early spring to late spring T1 v T3
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  16
+    LastIndex1:  231
+    FirstIndex2:  1281
+    LastIndex2:  1547
+  34vs39_trav2v1_batvik: 
+    Experimentdescription:  Early spring to late spring T2 v T1
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  0
+    LastIndex2:  221
+  34vs39_trav2v2_batvik: 
+    Experimentdescription:  Early spring to late spring T2 v T2
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  454
+    LastIndex2:  1058
+  34vs39_trav2v3_batvik: 
+    Experimentdescription:  Early spring to late spring T2 v T3
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  464
+    LastIndex1:  1068
+    FirstIndex2:  1281
+    LastIndex2:  1547
+  34vs39_trav3v1_batvik: 
+    Experimentdescription:  Early spring to late spring T3 v T1
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  0
+    LastIndex2:  221
+  34vs39_trav3v2_batvik: 
+    Experimentdescription:  Early spring to late spring T3 v T2
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  454
+    LastIndex2:  1058
+  34vs39_trav3v3_batvik: 
+    Experimentdescription:  Early spring to late spring T3 v T3
+    Dataset1:  34
+    Dataset2:  39
+    FirstIndex1:  1291
+    LastIndex1:  1556
+    FirstIndex2:  1281
+    LastIndex2:  1547

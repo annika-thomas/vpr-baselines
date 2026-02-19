@@ -1,0 +1,506 @@
+experiments:
+  27vs28_batvik_test:
+    description: "different days of winter 27 v 28"
+    dataset1Name: 27
+    dataset2Name: 27
+    startIdx1: 203
+    endIdx1: 250
+    startIdx2: 203
+    endIdx2: 250
+  # 27vs28_batvik:
+  #   description: "different days of winter 27 v 28"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 203
+  #   endIdx1: 3995
+  #   startIdx2: 444
+  #   endIdx2: 4299
+  # 27vs42_batvik:
+  #   description: "winter to summer 27 v 42"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 203
+  #   endIdx1: 3995
+  #   startIdx2: 168
+  #   endIdx2: 4396
+  # 41vs42_batvik:
+  #   description: "summer same day 41 v 42"
+  #   dataset1Name: 41
+  #   dataset2Name: 42
+  #   startIdx1: 224
+  #   endIdx1: 4327
+  #   startIdx2: 168
+  #   endIdx2: 4396
+  # 34vs42_batvik:
+  #   description: "early spring to summer 34 v 42"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 154
+  #   endIdx1: 3997
+  #   startIdx2: 168
+  #   endIdx2: 4396
+  # 39vs42_batvik:
+  #   description: "early spring to late spring 39 v 42"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 304
+  #   endIdx1: 4096
+  #   startIdx2: 168
+  #   endIdx2: 4396
+  # 34vs39_batvik:
+  #   description: "early spring to late spring 34 v 39"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 154
+  #   endIdx1: 3997
+  #   startIdx2: 304
+  #   endIdx2: 4096
+
+# 27 VERSUS 28 EXPERIMENTS
+  # 27vs28_trav1v1_batvik: 
+  #   description: "Different days of winter T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 500
+  #   endIdx2: 1035
+  # 27vs28_trav1v2_batvik:
+  #   description: "Different days of winter T1 v T2"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 1535
+  #   endIdx2: 2850
+  # 27vs28_trav1v3_batvik:
+  #   description: "Different days of winter T1 v T3"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 3350
+  #   endIdx2: 4100
+  # 27vs28_trav2v1_batvik:
+  #   description: "Different days of winter T2 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 500
+  #   endIdx2: 1035
+  # 27vs28_trav2v2_batvik:
+  #   description: "Different days of winter T2 v T2"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 1535
+  #   endIdx2: 2850
+  # 27vs28_trav2v3_batvik:
+  #   description: "Different days of winter T2 v T3"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 3350
+  #   endIdx2: 4100
+  # 27vs28_trav3v1_batvik:
+  #   description: "Different days of winter T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 500
+  #   endIdx2: 1035
+  # 27vs28_trav3v2_batvik:
+  #   description: "Different days of winter T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 1535
+  #   endIdx2: 2850
+  # 27vs28_trav3v3_batvik:
+  #   description: "Different days of winter T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 28
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 3350
+  #   endIdx2: 4100
+  
+
+# # 27 VERSUS 42 EXPERIMENTS
+  # 27vs42_trav1v1_batvik:
+  #   description: "Winter to summer T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 27vs42_trav1v2_batvik:
+  #   description: "Winter to summer T1 v T2"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 27vs42_trav1v3_batvik:
+  #   description: "Winter to summer T1 v T3"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 285
+  #   endIdx1: 835
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 27vs42_trav2v1_batvik:
+  #   description: "Winter to summer T2 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 27vs42_trav2v2_batvik:
+  #   description: "Winter to summer T2 v T2"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 27vs42_trav2v3_batvik:
+  #   description: "Winter to summer T2 v T3"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 1335
+  #   endIdx1: 2650
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 27vs42_trav3v1_batvik:
+  #   description: "Winter to summer T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 27vs42_trav3v2_batvik:
+  #   description: "Winter to summer T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 27vs42_trav3v3_batvik:
+  #   description: "Winter to summer T1 v T1"
+  #   dataset1Name: 27
+  #   dataset2Name: 42
+  #   startIdx1: 3135
+  #   endIdx1: 3890
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+
+
+# # 41 VERSUS 42 EXPERIMENTS
+#   41vs42_trav1v1_batvik:
+#     description: "Summer same day T1 v T1"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 210
+#     endIdx1: 1020
+#     startIdx2: 160
+#     endIdx2: 1030
+#   41vs42_trav1v2_batvik:
+#     description: "Summer same day T1 v T2"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 210
+#     endIdx1: 1020
+#     startIdx2: 1530
+#     endIdx2: 2840
+#   41vs42_trav1v3_batvik:
+#     description: "Summer same day T1 v T3"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 210
+#     endIdx1: 1020
+#     startIdx2: 3330
+#     endIdx2: 4085
+#   41vs42_trav2v1_batvik:
+#     description: "Summer same day T2 v T1"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 1520
+#     endIdx1: 2830
+#     startIdx2: 160
+#     endIdx2: 1030
+#   41vs42_trav2v2_batvik:
+#     description: "Summer same day T2 v T2"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 1520
+#     endIdx1: 2830
+#     startIdx2: 1530
+#     endIdx2: 2840
+#   41vs42_trav2v3_batvik:
+#     description: "Summer same day T2 v T3"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 1520
+#     endIdx1: 2830
+#     startIdx2: 3330
+#     endIdx2: 4085
+#   41vs42_trav3v1_batvik:
+#     description: "Summer same day T3 v T1"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 3320
+#     endIdx1: 4070
+#     startIdx2: 160
+#     endIdx2: 1030
+#   41vs42_trav3v2_batvik:
+#     description: "Summer same day T3 v T2"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 3320
+#     endIdx1: 4070
+#     startIdx2: 1530
+#     endIdx2: 2840
+#   41vs42_trav3v3_batvik:
+#     description: "Summer same day T3 v T3"
+#     dataset1Name: 41
+#     dataset2Name: 42
+#     startIdx1: 3320
+#     endIdx1: 4070
+#     startIdx2: 3330
+#     endIdx2: 4085
+
+
+# 34 VERSUS 42 EXPERIMENTS
+  # 34vs42_trav1v1_batvik:
+  #   description: "Early spring to summer T1 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 34vs42_trav1v2_batvik:
+  #   description: "Early spring to summer T1 v T2"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 34vs42_trav1v3_batvik:
+  #   description: "Early spring to summer T1 v T3"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 34vs42_trav2v1_batvik:
+  #   description: "Early spring to summer T2 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 34vs42_trav2v2_batvik:
+  #   description: "Early spring to summer T2 v T2"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 34vs42_trav2v3_batvik:
+  #   description: "Early spring to summer T2 v T3"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 34vs42_trav3v1_batvik:
+  #   description: "Early spring to summer T1 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 34vs42_trav3v2_batvik:
+  #   description: "Early spring to summer T1 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 34vs42_trav3v3_batvik:
+  #   description: "Early spring to summer T1 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 42
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+
+
+# # 39 VERSUS 42 EXPERIMENTS
+  # 39vs42_trav1v1_batvik:
+  #   description: "Early spring to summer T1 v T1"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 300
+  #   endIdx1: 870
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 39vs42_trav1v2_batvik:
+  #   description: "Early spring to summer T1 v T2"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 300
+  #   endIdx1: 870
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 39vs42_trav1v3_batvik:
+  #   description: "Early spring to summer T1 v T3"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 300
+  #   endIdx1: 870
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 39vs42_trav2v1_batvik:
+  #   description: "Early spring to summer T2 v T1"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 1370
+  #   endIdx1: 2685
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 39vs42_trav2v2_batvik:
+  #   description: "Early spring to summer T2 v T2"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 1370
+  #   endIdx1: 2685
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 39vs42_trav2v3_batvik:
+  #   description: "Early spring to summer T2 v T3"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 1370
+  #   endIdx1: 2685
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+  # 39vs42_trav3v1_batvik:
+  #   description: "Early spring to summer T3 v T1"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 3170
+  #   endIdx1: 3935
+  #   startIdx2: 160
+  #   endIdx2: 1030
+  # 39vs42_trav3v2_batvik:
+  #   description: "Early spring to summer T3 v T2"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 3170
+  #   endIdx1: 3935
+  #   startIdx2: 1530
+  #   endIdx2: 2840
+  # 39vs42_trav3v3_batvik:
+  #   description: "Early spring to summer T3 v T3"
+  #   dataset1Name: 39
+  #   dataset2Name: 42
+  #   startIdx1: 3170
+  #   endIdx1: 3935
+  #   startIdx2: 3330
+  #   endIdx2: 4085
+
+
+# 34 VERSUS 39 EXPERIMENTS
+  # 34vs39_trav1v1_batvik: 
+  #   description: "Early spring to late spring T1 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 300
+  #   endIdx2: 870
+  # 34vs39_trav1v2_batvik: 
+  #   description: "Early spring to late spring T1 v T2"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 1370
+  #   endIdx2: 2685
+  # 34vs39_trav1v3_batvik: 
+  #   description: "Early spring to late spring T1 v T3"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 210
+  #   endIdx1: 770
+  #   startIdx2: 3170
+  #   endIdx2: 3935
+  # 34vs39_trav2v1_batvik: 
+  #   description: "Early spring to late spring T2 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 300
+  #   endIdx2: 870
+  # 34vs39_trav2v2_batvik: 
+  #   description: "Early spring to late spring T2 v T2"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 1370
+  #   endIdx2: 2685
+  # 34vs39_trav2v3_batvik: 
+  #   description: "Early spring to late spring T2 v T3"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 1275
+  #   endIdx1: 2595
+  #   startIdx2: 3170
+  #   endIdx2: 3935
+  # 34vs39_trav3v1_batvik: 
+  #   description: "Early spring to late spring T3 v T1"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 300
+  #   endIdx2: 870
+  # 34vs39_trav3v2_batvik: 
+  #   description: "Early spring to late spring T3 v T2"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 1370
+  #   endIdx2: 2685
+  # 34vs39_trav3v3_batvik: 
+  #   description: "Early spring to late spring T3 v T3"
+  #   dataset1Name: 34
+  #   dataset2Name: 39
+  #   startIdx1: 3085
+  #   endIdx1: 3860
+  #   startIdx2: 3170
+  #   endIdx2: 3935

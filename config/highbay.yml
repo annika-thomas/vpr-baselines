@@ -1,0 +1,9 @@
+# Path to a folder where a number of output datafiles may be stored.
+pathToOutputData: "/home/annika/Documents/BLOBSLAM_Output"
+
+DataBasePath: "/home/annika/HighBayData"
+
+# This should point to the folder containing the datasets Jouko provided. Under this folder
+# one should find the folders 28, 29, 34, 35, 38, 39, 40 and 41 and possibly other flights.
+# (Each number represents one flight.)
+KeyframesBasePath: "/home/annika/Documents/keyframes"
